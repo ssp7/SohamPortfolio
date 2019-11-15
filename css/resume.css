@@ -198,7 +198,9 @@ p.lead {
  
  #sideNav .img-profile{
   border: 0.3rem solid rgba(4, 220, 248, 0.582);
-  border-radius: 50%;
+  width: 200px;
+  height: 220px;
+  border-radius: 100%;
  }
   #sideNav .navbar-collapse {
     display: -webkit-box;
